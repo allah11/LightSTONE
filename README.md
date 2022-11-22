@@ -7,11 +7,8 @@
 Документация расположена в папке documentation
 
 ## Предпосылки:
-Для получения програмного продукта напишите автору по почте 
-```
-alesha_pinaev@mail.ru 
-```
-или скачайте по ссылке
+Для получения програмного продукта скачайте по ссылке
+
 ```
 https://drive.google.com/drive/folders/1PtyYuYOCp2i4Qej-o1Vum86r8k_YGg3Z?usp=sharing
 ```
